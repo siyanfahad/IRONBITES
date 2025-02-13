@@ -84,11 +84,6 @@ python model_generator_filename.py
 
 ---
 
-## **Contributors**  
-👨‍💻 **Syed Abdul Kareem Ahmed**  
-🔗 [LinkedIn](https://www.linkedin.com/in/syed-abdul-kareem-ahmed) | [GitHub](https://github.com/92kareeem)  
-
----
 
 ## **License**  
 📜 **Apache 2.0 LICENSE** – Free to use and modify.  
